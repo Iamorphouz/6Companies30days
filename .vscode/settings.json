@@ -1,7 +1,0 @@
-{
-	"files.associations": {
-		"concepts": "cpp",
-		"string_view": "cpp"
-	},
-	"C_Cpp.default.enableConfigurationSquiggles": true
-}
